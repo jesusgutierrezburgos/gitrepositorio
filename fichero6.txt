@@ -1,1 +1,2 @@
 Fichero 6
+Nueva línea fichero 6
